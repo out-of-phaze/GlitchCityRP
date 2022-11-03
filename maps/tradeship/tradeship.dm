@@ -13,6 +13,7 @@
 	#include "../../mods/content/xenobiology/_xenobiology.dme"
 	#include "../../mods/content/matchmaking/_matchmaking.dme"
 	#include "../../mods/content/karmotrine/_karmotrine.dme"
+	#include "../../mods/content/zaibatsu/_zaibatsu.dme"
 
 	#include "../../mods/mobs/dionaea/_dionaea.dme"
 	#include "../../mods/mobs/borers/_borers.dme"

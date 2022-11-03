@@ -1,0 +1,14 @@
+#ifndef MODPACK_ZAIBATSU
+#define MODPACK_ZAIBATSU
+// BEGIN_INCLUDE
+#include "_zaibatsu.dm"
+#include "clothing/armor/white_knights.dm"
+// END_INCLUDE
+#endif
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
