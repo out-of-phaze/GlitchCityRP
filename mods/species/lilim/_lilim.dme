@@ -1,5 +1,7 @@
 #ifndef MODPACK_LILIM
 #define MODPACK_LILIM
 #include "_lilim.dm"
+#include "bodytypes.dm"
 #include "limbs.dm"
+#include "species.dm"
 #endif
